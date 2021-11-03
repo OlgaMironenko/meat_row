@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  transition: all 0.5s;
+  outline: none; }
+
+/*Header*/
+header {
+  width: 100%;
+  display: flex;
+  position: fixed; }
+  header .container {
+    display: flex;
+    justify-content: space-between;
+    margin: 30px auto; }
+    header .container .right nav ul {
+      display: flex;
+      list-style: none; }
+      header .container .right nav ul li a {
+        text-decoration: none;
+        color: #ffffff; }
+
+/*# sourceMappingURL=global.css.map */

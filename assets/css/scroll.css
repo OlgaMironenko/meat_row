@@ -1,0 +1,18 @@
+@charset "UTF-8";
+html, body {
+  scrollbar-arrow-color: #000;
+  /* 1 тАУ ╤Ж╨▓╨╡╤В ╤Б╤В╤А╨╡╨╗╨║╨╕ */
+  scrollbar-track-color: #008000;
+  /* 2 тАУ ╤Ж╨▓╨╡╤В ╨┐╨╛╨┤╨╗╨╛╨╢╨║╨╕ */
+  scrollbar-face-color: #32CD32;
+  /* 3 - ╤Ж╨▓╨╡╤В ╤Б╨░╨╝╨╛╨╣ ╨┐╨╛╨╗╨╛╤Б╤Л */
+  scrollbar-shadow-color: #000;
+  /* 4 тАУ ╤Ж╨▓╨╡╤В ╤А╨░╨╖╨┤╨╡╨╗╤П╤О╤Й╨╡╨╣ ╨┐╨╛╨╗╨╛╤Б╤Л */
+  scrollbar-highlight-color: #000;
+  /* 4 - ╤Ж╨▓╨╡╤В ╤А╨░╨╖╨┤╨╡╨╗╤П╤О╤Й╨╡╨╣ ╨┐╨╛╨╗╨╛╤Б╤Л */
+  scrollbar-3dlight-color: #32CD32;
+  /* 5 - ╤Ж╨▓╨╡╤В ╨▓╨╜╨╡╤И╨╜╨╕╤Е ╨│╤А╨░╨╜╨╕╤Ж ╨┐╨╛╨╗╨╛╤Б╤Л */
+  scrollbar-darkshadow-color: #32CD32;
+  /* 5 - ╤Ж╨▓╨╡╤В ╨▓╨╜╨╡╤И╨╜╨╕╤Е ╨│╤А╨░╨╜╨╕╤Ж ╨┐╨╛╨╗╨╛╤Б╤Л */ }
+
+/*# sourceMappingURL=scroll.css.map */
