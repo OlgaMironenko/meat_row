@@ -156,17 +156,15 @@
         width: 272px;
 
         top: 125px;
-        //left: 450px;
         left: 490px;
-        //left: 980px;
 
         @media (max-width: 1900px) {
           left: 465px;
         }
-
-        @media (max-width: 1400px) {
-          left: 465px;
-        }
+        //
+        //@media (max-width: 1400px) {
+        //  left: 465px;
+        //}
         @media (max-width: 1280px) {
           width: 221px;
 
@@ -554,4 +552,3 @@
     }
   }
 }
-
